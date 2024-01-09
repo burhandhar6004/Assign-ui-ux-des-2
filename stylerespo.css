@@ -1,0 +1,111 @@
+@media (min-width:600px) and (max-width:768px) {
+    .main-container-2{
+        width: 100%;
+        height: auto;
+    }
+    .navbar{
+        width: 100%;
+        height: 10vh;
+        padding-left: 25px;
+    }
+
+    /* main-container */
+
+    .main-container{
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .cont-ul{
+        width: 100%;
+        height: 85vh;
+    }
+
+    .container-2{
+        width: 100%;
+        height: 100vh;
+        margin: 20px;
+        border: 1px solid rgb(212, 212, 212);
+        background-color: white;
+        box-shadow: 1px 1px 10px grey;
+    }
+
+    .box-1{
+        font-size: 0.9375rem;
+    }
+    .box-1:nth-child(4){
+        margin-left: 0px;
+    }
+
+    /* main-container3 */
+
+    .container-3{
+        width: 100%;
+        height: 587px;
+        /* border: 1px solid black; */
+        background-color: white;
+        margin: 20px;
+        box-shadow: 1px 1px 10px grey;
+    }
+}
+
+
+/* .......428......... */
+@media (min-width:320px) and (max-width:428px) {
+    .main-container-2{
+        width: 100%;
+        height: auto;
+    }
+    .navbar{
+        width: 100%;
+        height: 10vh;
+        padding-left: 25px;
+    }
+
+    /* main-container */
+
+    .main-container{
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .cont-ul{
+        width: 100%;
+        height: 85vh;
+    }
+
+    .container-2{
+        width: 100%;
+        height: 80vh;
+        margin: 20px;
+        border: 1px solid rgb(212, 212, 212);
+        background-color: white;
+        box-shadow: 1px 1px 10px grey;
+    }
+
+    .box-1{
+        font-size: 0.9375rem;
+    }
+    .box-1:nth-child(4){
+        margin-left: 0px;
+    }
+
+    /* main-container3 */
+
+    .container-3{
+        width: 100%;
+        height: 587px;
+        /* border: 1px solid black; */
+        background-color: white;
+        margin: 20px;
+        box-shadow: 1px 1px 10px grey;
+    }
+}
